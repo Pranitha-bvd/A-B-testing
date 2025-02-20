@@ -20,6 +20,7 @@ The goal is to determine if the new design leads to a statistically significant 
 
 ## Dataset
 
+Link: https://www.kaggle.com/datasets/zhangluyuan/ab-testing
 The dataset (ab_data.csv) contains user interactions, including:
 
 * user_id: Unique identifier for each user.
