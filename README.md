@@ -17,3 +17,12 @@ The goal is to determine if the new design leads to a statistically significant 
 * Sample Size Calculation: Uses power analysis to determine the minimum users needed per group.
 * Statistical Hypothesis Testing: Conducts a Z-test to evaluate the significance of conversion rate differences.
 * Confidence Interval Estimation: Measures the reliability of the results.
+
+## Dataset
+
+The dataset (ab_data.csv) contains user interactions, including:
+
+* user_id: Unique identifier for each user.
+* group: Whether the user was in control or treatment.
+* landing_page: The page version seen by the user.
+* converted: Whether the user converted (1 = Yes, 0 = No).
